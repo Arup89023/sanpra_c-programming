@@ -1,3 +1,4 @@
+# This repository contains a collection of essential C programming codes and practice problems designed to strengthen core programming concepts. It includes programs based on variables, operators, conditional statements, loops, functions, arrays, pointers, structures, and file handling. Each program is written in a simple and modular format, making it easy to understand for beginners and useful for revision and academic purposes. The repository reflects my continuous learning in C and showcases my ability to write clean, efficient, and well-structured code.
 # T1. Implement a command-line calculator that performs basic arithmetic operations (, , , ). Must use a switch statement for operation selection and include input validation to prevent division by zero.
 
 #include <stdio.h>
